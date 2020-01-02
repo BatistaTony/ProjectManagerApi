@@ -1,0 +1,11 @@
+{
+  "name": "project_manager",
+  "version": "1.0.0",
+  "description": "Manage your projects listing the tasks",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "author": "Andromeda Labs",
+  "license": "ISC"
+}
